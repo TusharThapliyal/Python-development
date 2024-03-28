@@ -1,0 +1,6 @@
+working with variable to manage data
+print modifier:
+# if you want to you double qoutes in your print statement, you can alternate the single quotes and double quotes
+pint('she said: "Hello"') 
+#we can also do:
+print("she said: \"hello\"")
